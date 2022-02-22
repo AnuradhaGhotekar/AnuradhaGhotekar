@@ -1,0 +1,10 @@
+Data Analysis on Students PT marks
+Scenario 1: Find out no of absent studnets in each subject
+Scenario 2: Find students who scored more than 25 marks in FMA
+Scenario 3: Find out the name of the students who scored maximum marks in EMC
+Scenario 4: Find out students who scored 0 marks in NMCP
+Scenario 5: Do univariate anlysis on all subjects columns in the dataset.
+
+import pandas as pd
+A = pd.read_csv("D:/My Work/my data and code/students marks1.csv")
+A.head()
