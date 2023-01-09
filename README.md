@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnuradhaGhotekar
 - 👀 I’m interested in Data Science, Software development in python and machine learning applications to Electrical Engineering
-- 🌱 I’m currently working as ML Engineer
+- 🌱 I’m currently looking for opportunity to start my career in Data Science
 - 💞️ I’m looking to collaborate on Python, Data Science, Machine learning
-- 📫 How to reach me ..https://www.linkedin.com/in/anuradha-ghotekar-40732b25/ and gmail- anuradha.ghotekar@gmail.com
+- 📫 How to reach me ..https://www.linkedin.com/in/anuradha-ghotekar-614b69255/ and gmail- anuradha.ghotekar@gmail.com
                      
 
 <!---
